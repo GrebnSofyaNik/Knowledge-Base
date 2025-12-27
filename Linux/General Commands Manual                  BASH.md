@@ -1,7 +1,7 @@
 # General Commands Manual                  BASH
 
 Я знаю, ни вы ни я не были готовы к этому, но я не нашла нигде этот мануал на русском, поэтому решила перевести его сама, оригинальный мануал можно найти введя в командной строке `bash man` или на любом сайте по нему.
-
+<img width="1536" height="672" alt="т" src="https://github.com/user-attachments/assets/a4d4f3cf-f4b8-482b-b33e-d380c64bdf92" />
 Оглавление:
 - Описание (DESCRIPTION)
 - Основные опции (OPTIONS)
